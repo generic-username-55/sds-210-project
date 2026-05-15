@@ -1,1 +1,4 @@
-data/raw/*.tif
+data/raw/AEF_embedding_2022.tif
+data/raw/AEF_embedding_2024.tif
+data/raw/S2_composite_2022.tif
+data/raw/S2_composite_2024.tif
