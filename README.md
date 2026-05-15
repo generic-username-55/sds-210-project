@@ -15,20 +15,14 @@ Project for the course SDS210 at UZH
 
 
 
-* Original data Sentinel-2 data can be accessed through the Copernicus browser (https://browser.dataspace.copernicus.eu/) 
+* Original data Sentinel-2 data can be accessed through the Copernicus browser (https://browser.dataspace.copernicus.eu/)
 * Original AlphaEarth Embeddings can be accessed through Google Earth Engine (https://code.earthengine.google.com/)
 
 
 
-**Requirements:** Python 3.14 and the packages listed in the Environment.yml
+**Requirements:** Python 3.14 and the packages listed in the environment.yml
 
 
 
 **Execution Order:** If the requirements are met, the folder structure is the same as on GitHub and the raw data is saved in the corresponding folder, the main.ipynb can be run directly.
-
-
-
-
-
-
 
